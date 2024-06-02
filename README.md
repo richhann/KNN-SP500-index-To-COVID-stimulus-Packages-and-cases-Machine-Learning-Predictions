@@ -27,6 +27,14 @@ The progression from the onset of this unit to the culmination of Portfolio 4 ha
 ### Dataset Choice
 The datasets encompassed stock market data from Yahoo Finance and Wall Street Journal, Bitcoin data from Yahoo Finance, COVID-19 data from Kaggle or World Health Organization, and Government Stimulus Packages data from Investopedia. These were instrumental in constructing a well-rounded analysis of the economic landscape during the COVID-19 pandemic.
 
+### Impact of Cointegration on Correlation Data:
+
+- statistical property where two or more time series variables are linked in the long run, even if they are not correlated in the short run.
+  
+- When analyzing financial time series data, the relationship between COVID-19 cases and financial indices, cointegration may influence the observed correlation.
+  
+- However, cointegration on the correlation data is statistically insignificant due to the short timeframe. 
+
 ### Problem Identification
 The project sought to answer well-defined questions concerning the global economic impact of COVID-19, the correlation between COVID-19 cases and stock market indices, the effect of government stimulus packages on stock market indices and Bitcoin prices, and the correlation between stimulus packages' release timelines with Bitcoin and S&P 500 indices.
 
@@ -115,6 +123,8 @@ USA && world - SP500 && Nasdaq - Bitcoin
 - Regression Analysis: Determine the impact of various factors on stock market indices.
 
 - Clustering and Classification: Identify patterns or groups within the data that share common characteristics.
+
+- Skipping Cointegration as for this purpose the timeframe would be too small to be statistically significant
 
 **Visualization:**
 
