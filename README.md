@@ -1855,6 +1855,8 @@ Learning curves suggested KNN is generalizing well, with no clear signs of overf
 Comparatively, Linear Regression couldn't capture the data's variability as effectively as KNN.
 
 
+# tl;dr
+
 basically saying when stimulus packages dropped there are **high correlation between the Stocks and Covid-19 cases** which means both increase becomes the same rate (3 out 4 times)... stimulus checks makes stock go up (kind of useless analysis now summarising it...)
 
 ```python
