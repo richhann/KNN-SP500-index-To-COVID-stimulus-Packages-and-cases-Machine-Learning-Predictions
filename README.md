@@ -1,10 +1,10 @@
 # Question to answer
 
-Is there a correlation between the number of COVID-19 cases and stock market (SP500 && Nasdaq indices) across different countries?
+- Is there a correlation between the number of COVID-19 cases and stock market (SP500 && Nasdaq indices) across different countries?
 
-Have US government stimulus packages had a positive impact on stock market indices?
+- Have US government stimulus packages had a positive impact on stock market indices?
 
-USA && world - SP500 && Nasdaq - Bitcoin
+- USA && world - SP500 && Nasdaq - Bitcoin
 
 ---
 
