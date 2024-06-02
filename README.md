@@ -8,6 +8,15 @@
 
 - Finally, KNN vs Regression Model, Machine Learning to predict price
 
+What is being predicted: Both the KNN and Linear Regression models are used to predict the closing prices of the S&P 500 based on the number of confirmed COVID-19 cases.
+Performance Metrics: Both models are evaluated using MSE, MAE, and R-squared to determine their predictive accuracy.
+
+The KNN model involves hyperparameter tuning to find the best number of neighbors and uses cross-validation to ensure robustness.
+The Linear Regression model provides a straightforward approach to understanding the linear relationship between COVID-19 cases and S&P 500 closing prices.
+
+## Accuracy and Usefulness:
+The KNN model, with a high R-squared value, suggests strong predictive power, implying it can accurately predict stock prices based on the input features. This is particularly useful for investors and policymakers to anticipate market movements and make informed decisions. Hopefully
+
 ---
 
 # Reflective Report on Portfolio 4
