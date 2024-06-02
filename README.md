@@ -544,7 +544,7 @@ plt.show()
 #### Covid cases
 global COVID-19 data from January 22, 2020, to March 9, 2023, reveals a consistent and strong correlation between confirmed cases and deaths.
 
-Death count will be ignored from this point.
+Death count will be ignored from this point. Due to the high correlation 0.939, will result in almost identical relationship.
 
 **Univariate Analysis** of the global next to US daily confirmed cases to understand their distributions.
 
