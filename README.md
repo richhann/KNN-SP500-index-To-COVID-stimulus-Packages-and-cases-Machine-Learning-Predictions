@@ -887,6 +887,7 @@ plt.show()
     
 
 
+1e8 x-axis scale = 100,000,000
 should have no missing values but check anyways
 
 
