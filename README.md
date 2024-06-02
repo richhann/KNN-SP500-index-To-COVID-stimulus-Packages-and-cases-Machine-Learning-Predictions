@@ -1861,6 +1861,8 @@ Comparatively, Linear Regression couldn't capture the data's variability as effe
 
 basically saying when stimulus packages dropped there are **high correlation between the Stocks and Covid-19 cases** which means both increase becomes the same rate (3 out 4 times)... stimulus checks makes stock go up (kind of useless analysis now summarising it...)
 
+the KNN model appears to be useful for predicting stock movements in the context of this study. It captures the relationship between COVID-19 cases, Bitcoin prices, and stock indices effectively.
+
 ```python
 
 ```
