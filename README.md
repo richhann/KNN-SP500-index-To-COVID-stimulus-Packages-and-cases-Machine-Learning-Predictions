@@ -1864,6 +1864,10 @@ Techniques like ARIMA or GARCH can be used to model the rate of change and volat
 
 The Pearson correlation coefficient provides insights into how consistently two variables move together in a linear relationship but does not directly measure the rate of change. 
 
+## Need to understand why KNN R so high
+
+The use of KNN in the study implies leveraging historical relationships between variables (such as COVID-19 cases and Bitcoin prices) to predict future Bitcoin prices. KNN uses these patterns to make accurate, local predictions. The high predictive accuracy and robustness of the KNN model suggest that the relationships captured by the model are strong and consistent, making it a useful tool for forecasting and strategy development in financial markets or There is a major mistake 🛐
+
 # tl;dr
 
 basically saying when stimulus packages dropped there are **high correlation between the Stocks and Covid-19 cases** which means both increase becomes the same rate (3 out 4 times)... stimulus checks makes stock go up (kind of useless analysis now summarising it...)
