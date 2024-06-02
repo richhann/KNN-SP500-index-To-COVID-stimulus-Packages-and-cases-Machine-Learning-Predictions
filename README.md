@@ -1856,6 +1856,13 @@ Learning curves suggested KNN is generalizing well, with no clear signs of overf
 
 Comparatively, Linear Regression couldn't capture the data's variability as effectively as KNN.
 
+# Reflection
+
+Time Series Analysis:
+
+Techniques like ARIMA or GARCH can be used to model the rate of change and volatility over time, providing a deeper understanding of the dynamics between the variables.
+
+The Pearson correlation coefficient provides insights into how consistently two variables move together in a linear relationship but does not directly measure the rate of change. 
 
 # tl;dr
 
