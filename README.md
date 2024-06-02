@@ -1,4 +1,10 @@
-Portfolio 4 on the economic impact of COVID-19
+# Question to answer
+
+Is there a correlation between the number of COVID-19 cases and stock market (SP500 && Nasdaq indices) across different countries?
+
+Have US government stimulus packages had a positive impact on stock market indices?
+
+USA && world - SP500 && Nasdaq - Bitcoin
 
 ---
 
