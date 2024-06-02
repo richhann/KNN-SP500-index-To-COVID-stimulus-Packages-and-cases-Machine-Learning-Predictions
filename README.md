@@ -13,11 +13,16 @@ Both the KNN and Linear Regression models are used to predict the closing prices
 ### Performance Metrics: 
 Both models are evaluated using MSE, MAE, and R-squared to determine their predictive accuracy.
 
+
 The KNN model involves hyperparameter tuning to find the best number of neighbors and uses cross-validation to ensure robustness.
 The Linear Regression model provides a straightforward approach to understanding the linear relationship between COVID-19 cases and S&P 500 closing prices.
 
 ## Accuracy and Usefulness:
-The KNN model, with a high R-squared value, suggests strong predictive power, implying it can accurately predict stock prices based on the input features. This is particularly useful for investors and policymakers to anticipate market movements and make informed decisions. Hopefully
+The KNN model, with a high R-squared value, suggests strong predictive power, implying it can accurately predict stock prices based on the input features. 
+
+### Optimal Number of Neighbors (k): 2 Mean Squared Error (MSE): 2090.41 Mean Absolute Error (MAE): 34.04 R-squared: 0.9925
+
+This is particularly useful for investors and policymakers to anticipate market movements and make informed decisions. Hopefully
 
 ---
 
