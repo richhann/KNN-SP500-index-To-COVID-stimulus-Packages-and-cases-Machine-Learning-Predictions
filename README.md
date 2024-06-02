@@ -20,7 +20,10 @@ The Linear Regression model provides a straightforward approach to understanding
 ## Accuracy and Usefulness:
 The KNN model, with a high R-squared value, suggests strong predictive power, implying it can accurately predict stock prices based on the input features. 
 
-### Optimal Number of Neighbors (k): 2 Mean Squared Error (MSE): 2090.41 Mean Absolute Error (MAE): 34.04 R-squared: 0.9925
+### Optimal Number of Neighbors (k): 2 
+- Mean Squared Error (MSE): 2090.41
+- Mean Absolute Error (MAE): 34.04
+- R-squared: 0.9925
 
 This is particularly useful for investors and policymakers to anticipate market movements and make informed decisions. Hopefully
 
