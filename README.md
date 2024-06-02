@@ -6,6 +6,8 @@
 
 - USA && world - SP500 && Nasdaq - Bitcoin
 
+- Finally, KNN vs Regression Model, Machine Learning to predict price
+
 ---
 
 # Reflective Report on Portfolio 4
