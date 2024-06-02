@@ -1036,6 +1036,7 @@ plt.show()
 ![png](output_26_0.png)
     
 
+# Analysis
 
 Visually samiliar SP500 and Nasdaq, how dense the dots represent the amount of confirmed cases and how exponentional is the spread, 
 from eye balling Nasdaq and SP500 once the growth became faster 0.5 to 0.8 the stock revealed a downward trend (inverse relationship)As the number of cases increased, the S&P 500 index generally trended downwards.
